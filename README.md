@@ -1,2 +1,2 @@
-# StartSpring
+# StartMessage
 Minimal Spring REST project
